@@ -1,4 +1,10 @@
 
 target/
 *.class
+*.log
+.classpath
+.project
+.settings/
+.vscode/
 classpath.txt
+reservation.db
