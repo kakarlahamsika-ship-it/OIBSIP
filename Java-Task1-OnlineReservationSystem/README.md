@@ -144,7 +144,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Kakarla Hamsika**
 
 B.Tech – Information Technology
 
